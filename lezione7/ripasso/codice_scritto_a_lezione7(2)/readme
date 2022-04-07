@@ -1,0 +1,10 @@
+
+
+scriviamo un file file.txt che contiene del testo
+un file file.php che lo legge e stampa la 4 riga
+
+
+==> stiamo scrivendo tutte le richieste in un file
+
+
+==> adesso vogliamo scrivere ogni richiesta in un file dedicato
